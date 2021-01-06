@@ -1,0 +1,40 @@
+REF_DATE,GEO,DGUID,Homicides,UOM,UOM_ID,SCALAR_FACTOR,SCALAR_ID,VECTOR,COORDINATE,VALUE,STATUS,SYMBOL,TERMINATED,DECIMALS
+2017,Newfoundland and Labrador,2016A000210,Number of homicide victims,Number,223,units,0,v1540424,2.1,4,,,,0
+2018,Newfoundland and Labrador,2016A000210,Number of homicide victims,Number,223,units,0,v1540424,2.1,2,,,,0
+2019,Newfoundland and Labrador,2016A000210,Number of homicide victims,Number,223,units,0,v1540424,2.1,5,,,,0
+2017,Prince Edward Island,2016A000211,Number of homicide victims,Number,223,units,0,v1540426,3.1,2,,,,0
+2018,Prince Edward Island,2016A000211,Number of homicide victims,Number,223,units,0,v1540426,3.1,0,,,,0
+2019,Prince Edward Island,2016A000211,Number of homicide victims,Number,223,units,0,v1540426,3.1,2,,,,0
+2017,Nova Scotia,2016A000212,Number of homicide victims,Number,223,units,0,v1540428,4.1,21,,,,0
+2018,Nova Scotia,2016A000212,Number of homicide victims,Number,223,units,0,v1540428,4.1,11,,,,0
+2019,Nova Scotia,2016A000212,Number of homicide victims,Number,223,units,0,v1540428,4.1,6,,,,0
+2017,New Brunswick,2016A000213,Number of homicide victims,Number,223,units,0,v1540430,5.1,10,,,,0
+2018,New Brunswick,2016A000213,Number of homicide victims,Number,223,units,0,v1540430,5.1,13,,,,0
+2019,New Brunswick,2016A000213,Number of homicide victims,Number,223,units,0,v1540430,5.1,15,,,,0
+2017,Quebec,2016A000224,Number of homicide victims,Number,223,units,0,v1540432,6.1,93,,,,0
+2018,Quebec,2016A000224,Number of homicide victims,Number,223,units,0,v1540432,6.1,83,,,,0
+2019,Quebec,2016A000224,Number of homicide victims,Number,223,units,0,v1540432,6.1,77,,,,0
+2017,Ontario,2016A000235,Number of homicide victims,Number,223,units,0,v1540434,7.1,198,,,,0
+2018,Ontario,2016A000235,Number of homicide victims,Number,223,units,0,v1540434,7.1,272,,,,0
+2019,Ontario,2016A000235,Number of homicide victims,Number,223,units,0,v1540434,7.1,246,,,,0
+2017,Manitoba,2016A000246,Number of homicide victims,Number,223,units,0,v1540436,8.1,47,,,,0
+2018,Manitoba,2016A000246,Number of homicide victims,Number,223,units,0,v1540436,8.1,55,,,,0
+2019,Manitoba,2016A000246,Number of homicide victims,Number,223,units,0,v1540436,8.1,72,,,,0
+2017,Saskatchewan,2016A000247,Number of homicide victims,Number,223,units,0,v1540438,9.1,38,,,,0
+2018,Saskatchewan,2016A000247,Number of homicide victims,Number,223,units,0,v1540438,9.1,34,,,,0
+2019,Saskatchewan,2016A000247,Number of homicide victims,Number,223,units,0,v1540438,9.1,55,,,,0
+2017,Alberta,2016A000248,Number of homicide victims,Number,223,units,0,v1540440,10.1,119,,,,0
+2018,Alberta,2016A000248,Number of homicide victims,Number,223,units,0,v1540440,10.1,81,,,,0
+2019,Alberta,2016A000248,Number of homicide victims,Number,223,units,0,v1540440,10.1,100,,,,0
+2017,British Columbia,2016A000259,Number of homicide victims,Number,223,units,0,v1540442,11.1,119,,,,0
+2018,British Columbia,2016A000259,Number of homicide victims,Number,223,units,0,v1540442,11.1,90,,,,0
+2019,British Columbia,2016A000259,Number of homicide victims,Number,223,units,0,v1540442,11.1,90,,,,0
+2017,Yukon,2016A000260,Number of homicide victims,Number,223,units,0,v1540444,12.1,8,,,,0
+2018,Yukon,2016A000260,Number of homicide victims,Number,223,units,0,v1540444,12.1,3,,,,0
+2019,Yukon,2016A000260,Number of homicide victims,Number,223,units,0,v1540444,12.1,1,,,,0
+2017,Northwest Territories,2016A000261,Number of homicide victims,Number,223,units,0,v1540450,15.1,2,,,,0
+2018,Northwest Territories,2016A000261,Number of homicide victims,Number,223,units,0,v1540450,15.1,6,,,,0
+2019,Northwest Territories,2016A000261,Number of homicide victims,Number,223,units,0,v1540450,15.1,2,,,,0
+2017,Nunavut,2016A000262,Number of homicide victims,Number,223,units,0,v1540448,14.1,6,,,,0
+2018,Nunavut,2016A000262,Number of homicide victims,Number,223,units,0,v1540448,14.1,8,,,,0
+2019,Nunavut,2016A000262,Number of homicide victims,Number,223,units,0,v1540448,14.1,7,,,,0
